@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+    background: #1b1b1b;
+    margin: 0;
+    font-family: 'Lato';
+    text-align: center;
+    color: white;
+
+    .logo {
+        font-size: white;
+    }
+
+}
+
+
+
+h1 {
+    font-size: 2.4em;
+    margin-left: 1em;
+}
+
+p {
+    font-size: 1.5em;
+    margin-left: 1.5em;
+}
+
+.discordlink{
+    
+    a:link {
+        color: white;
+        text-decoration: none;
+    }
+
+}

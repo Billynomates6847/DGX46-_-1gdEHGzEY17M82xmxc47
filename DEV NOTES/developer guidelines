@@ -1,0 +1,11 @@
+BELOW ARE SOME DESIGN GUIDELINES. 
+THESE INCLUDE SPECIFIC COLORS TO USE IN ORDER TO MAKE SURE
+THE WEBSITE GOES TOGETHER WELL.
+
+-- Main Color: rgb(38, 89, 228) --
+-- Font: Source Sans Pro (should already be setup in css) --
+
+**BELOW IS FOR PANEL**
+
+-- SHADOW: -webkit-box-shadow: 0px 0px 11px -1px #000000; 
+box-shadow: 0px 0px 11px -1px #000000; --
